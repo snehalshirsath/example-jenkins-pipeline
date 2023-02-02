@@ -1,0 +1,8 @@
+/home/snehals/jenkins-pipeline-example/src/main/java/com/rbittencourt/configuration/WebConfiguration.java
+/home/snehals/jenkins-pipeline-example/src/main/java/com/rbittencourt/web/IndexController.java
+/home/snehals/jenkins-pipeline-example/src/main/java/com/rbittencourt/repositories/ProductRepository.java
+/home/snehals/jenkins-pipeline-example/src/main/java/com/rbittencourt/services/ProductService.java
+/home/snehals/jenkins-pipeline-example/src/main/java/com/rbittencourt/web/ProductController.java
+/home/snehals/jenkins-pipeline-example/src/main/java/com/rbittencourt/JenkinsPipelineExample.java
+/home/snehals/jenkins-pipeline-example/src/main/java/com/rbittencourt/configuration/SecurityConfiguration.java
+/home/snehals/jenkins-pipeline-example/src/main/java/com/rbittencourt/domain/Product.java

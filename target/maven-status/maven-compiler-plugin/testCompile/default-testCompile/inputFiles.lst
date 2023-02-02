@@ -1,0 +1,16 @@
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/page/Menu.java
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/test/ProductUiCreateUiTest.java
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/element/Paragraph.java
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/element/TextField.java
+/home/snehals/jenkins-pipeline-example/src/it/java/com/rbittencourt/configuration/RepositoryConfiguration.java
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/page/ProductFormPage.java
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/element/ElementFactory.java
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/element/Button.java
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/driver/DriverFactory.java
+/home/snehals/jenkins-pipeline-example/src/it/java/com/rbittencourt/repositories/ProductRepositoryIT.java
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/element/Link.java
+/home/snehals/jenkins-pipeline-example/src/it/java/com/rbittencourt/JenkinsPipelineExampleIT.java
+/home/snehals/jenkins-pipeline-example/src/test/java/com/rbittencourt/services/ProductServiceTest.java
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/page/ViewProductPage.java
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/page/ProductListPage.java
+/home/snehals/jenkins-pipeline-example/src/ui-test/com/rbittencourt/ui/test/ProductUiEditUiTest.java

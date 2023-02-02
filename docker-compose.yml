@@ -1,0 +1,61 @@
+version: '3.4'
+
+services:
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  docker-registry:
+    image: registry:2
+    container_name: docker-registry
+    ports:
+      - 5000:5000    
+
+
+
+
+
+
+
+
+
+
+
+
+  sonar:
+    build: custom-dockerfiles/sonarqube
+    container_name: sonarqube
+    ports:
+      - 9000:9000
+      - 9092:9092
+    environment:  
+      - JAVA_OPTS=-Dsonar.forceAuthentication=false  
+
+
+
+
+
+
+
+      - "4444:4444"
